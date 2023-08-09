@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "TickySticks.json"
+  ],
+  "homeserver_url": "https://matrix.beeper.com"
+}
