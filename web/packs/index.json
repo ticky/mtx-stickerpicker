@@ -1,6 +1,10 @@
 {
   "packs": [
-    "TickySticks.json"
+    "TickySticks.json",
+    "LINEHD_PEONE.json",
+    "MacSystem7.json",
+    "BusyAirliners.json",
+    "aircraftcomments5E.json"
   ],
   "homeserver_url": "https://matrix.beeper.com"
 }
