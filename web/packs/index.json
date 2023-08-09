@@ -4,7 +4,12 @@
     "LINEHD_PEONE.json",
     "MacSystem7.json",
     "BusyAirliners.json",
-    "aircraftcomments5E.json"
+    "aircraftcomments5E.json",
+    "AsahiLina.json",
+    "AsahiLinya.json",
+    "MacOS9.json",
+    "MSBob.json",
+    "ASoftFox.json"
   ],
   "homeserver_url": "https://matrix.beeper.com"
 }
