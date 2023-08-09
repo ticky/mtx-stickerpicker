@@ -1,21 +1,24 @@
 {
   "packs": [
     "TickySticks.json",
-    "LINEHD_PEONE.json",
-    "ASoftFox.json",
-    "GirlsLoveStory.json",
-    "JKOL_by_wadaka.json",
-    "Mofuko_chan_by_Chiyo_Sakuraba.json",
-    "Rainbow__Monochrome_Rabbit_Vol.2_by_hiro.json",
-    "taiyakineco_sticker_by_tara.json",
-    "WOLF_STICKERS_by_tasuichiha.json"
     "BusyAirliners.json",
     "aircraftcomments5E.json",
     "AsahiLina.json",
     "AsahiLinya.json",
+    "LINEHD_PEONE.json",
+    "ASoftFox.json",
+    "Bellezza_Felutia_Tadaima_by_felutia.json",
+    "GirlsLoveStory.json",
+    "JKOL_by_wadaka.json",
+    "Mofuko_chan_by_Chiyo_Sakuraba.json",
+    "MOE-CAT-GIRL_Stickers_by_kadoworks.json",
+    "Rainbow__Monochrome_Rabbit_Vol.2_by_hiro.json",
+    "taiyakineco_sticker_by_tara.json",
+    "WOLF_STICKERS_by_tasuichiha.json",
+    "Yuri-ish_Stickers_English_by_Nabisuko.json",
     "MacSystem7.json",
     "MacOS9.json",
-    "MSBob.json",
+    "MSBob.json"
   ],
   "homeserver_url": "https://matrix.beeper.com"
 }
